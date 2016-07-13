@@ -1,8 +1,7 @@
 body {
 	font-family: Verdana, Geneva, sans-serif;
 	height: 100%;
-	margin-left: 80px;
-	margin-top: 100px;
+	margin: 80px;
 	text-align: left;
 	width: 60%;
 }
@@ -23,8 +22,8 @@ p {
     position: sticky;
     float: right;
     position: relative;
-    bottom: 80px;
-    left: 260px;
+    bottom: 225px;
+    left: 250px;
 }
 
 .Journalism {
