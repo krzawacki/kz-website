@@ -64,12 +64,6 @@ tr {
     border-radius: 5px;
 }  
 
-.Copywriting2 {
-    -webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
-    column-count: 3;
-}
-
 .Contact {
     background-color: #f2f2f2;
     padding: 5px;
@@ -79,6 +73,29 @@ tr {
     border-radius: 5px;
 }
 
-#corners {
-    border-radius: 5px;
+#encryption {
+    float: right;
+    position: relative;
+    bottom: 35px;
+    padding: 10px;
+}
+
+#thimble {
+    float: right;
+    position: relative;
+    bottom: 35px;
+    left: 15px;
+    padding: 10px;
+}
+
+#fellows {
+    float: right;
+    position: relative;
+    bottom: 35px;
+    padding: 10px;
+}
+
+#copygraf {
+    margin-top:0em; 
+    margin-bottom:0em;
 }
