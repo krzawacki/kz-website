@@ -73,6 +73,13 @@ tr {
     border-radius: 5px;
 }
 
+#copyright {
+    float: right;
+    position: relative;
+    bottom: 35px;
+    padding: 10px;
+}
+
 #encryption {
     float: right;
     position: relative;
@@ -85,13 +92,6 @@ tr {
     position: relative;
     bottom: 35px;
     left: 15px;
-    padding: 10px;
-}
-
-#fellows {
-    float: right;
-    position: relative;
-    bottom: 35px;
     padding: 10px;
 }
 
